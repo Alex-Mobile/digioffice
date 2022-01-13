@@ -1,0 +1,26 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "map.json#WA_Decoration": {
+            "scaleInEditor": 1
+        },
+        "map.json#WA_Miscellaneous": {
+            "scaleInEditor": 1
+        },
+        "map.json#WA_Seats": {
+            "scaleInEditor": 1
+        },
+        "map.json#WA_Special_Zones": {
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "digioffice.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+    ]
+}
