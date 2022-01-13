@@ -20,7 +20,7 @@
     "openFiles": [
     ],
     "project": "digioffice.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
     ]
 }
