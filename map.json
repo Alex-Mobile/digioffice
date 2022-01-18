@@ -66,12 +66,12 @@
                         {
                          "name":"audioVolume",
                          "type":"float",
-                         "value":0.5
+                         "value":0.7
                         }, 
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/alex-mobile.github.io\/digioffice\/src\/assets\/Birds%20and%20Wind%20-%20Ambient.ogg"
+                         "value":"https:\/\/alex-mobile.github.io\/digioffice\/src\/assets\/Wind-and-birds-sound-effect.mp3"
                         }],
                  "rotation":0,
                  "type":"",
