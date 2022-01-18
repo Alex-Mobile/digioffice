@@ -1,26 +1,82 @@
 {
-    "activeFile": "",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
-        "map.json#WA_Decoration": {
+        "map.json": {
+            "scale": 1,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 442.5,
+                "y": 336.5
+            }
+        },
+        "map.json#NatureKit3D": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "map.json#WA_Decoration": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Logo_Long": {
+            "scaleInDock": 1
         },
         "map.json#WA_Miscellaneous": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "map.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
         "map.json#WA_Seats": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#WA_Special_Zones": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "src/assets/Nature3D.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "src/assets/NatureKit3D.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "src/assets/Tree.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
+    "last.externalTilesetPath": "C:/laragon/www/digioffice/src/assets",
+    "last.imagePath": "C:/Users/asimon/Downloads/Isometric",
     "openFiles": [
+        "map.json"
     ],
     "project": "digioffice.tiled-project",
-    "property.type": "string",
+    "property.type": "float",
     "recentFiles": [
-    ]
+        "map.json",
+        "src/assets/Tree.tsx",
+        "src/assets/Nature3D.tsx",
+        "src/assets/NatureKit3D.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled Tileset Dateien (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 0
 }
