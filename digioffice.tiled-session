@@ -69,7 +69,7 @@
         "map.json"
     ],
     "project": "digioffice.tiled-project",
-    "property.type": "float",
+    "property.type": "string",
     "recentFiles": [
         "map.json",
         "src/assets/Tree.tsx",
