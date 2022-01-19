@@ -12,19 +12,23 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 2,
-            "selectedLayer": 12,
+            "scale": 1.5,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 362.5,
-                "y": 531.5
+                "x": 317.99999999999994,
+                "y": 382
             }
         },
         "map.json#MegaPixelArt32x32pxIcons_SpriteSheet": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "map.json#NatureKit3D": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "map.json#Pigeon Sprite Sheet": {
+            "scaleInDock": 1
         },
         "map.json#Trees": {
             "dynamicWrapping": false,
@@ -60,7 +64,8 @@
             "scaleInEditor": 1
         },
         "map.json#WA_Tables": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json#sRandomWorldItems": {
             "scaleInDock": 1
@@ -89,7 +94,7 @@
     "openFiles": [
     ],
     "project": "digioffice.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "map.json",
         "src/assets/Tree.tsx",
