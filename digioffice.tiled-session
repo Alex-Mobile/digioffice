@@ -1,19 +1,33 @@
 {
-    "activeFile": "map.json",
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "map.json": {
-            "scale": 1,
+            "scale": 2,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 442.5,
-                "y": 336.5
+                "x": 362.5,
+                "y": 531.5
             }
+        },
+        "map.json#MegaPixelArt32x32pxIcons_SpriteSheet": {
+            "scaleInEditor": 1
         },
         "map.json#NatureKit3D": {
             "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#Trees": {
+            "dynamicWrapping": false,
             "scaleInEditor": 1
         },
         "map.json#WA_Decoration": {
@@ -48,6 +62,13 @@
         "map.json#WA_Tables": {
             "scaleInDock": 1
         },
+        "map.json#sRandomWorldItems": {
+            "scaleInDock": 1
+        },
+        "map.json#trees": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
         "src/assets/Nature3D.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1,
@@ -64,19 +85,23 @@
         }
     },
     "last.externalTilesetPath": "C:/laragon/www/digioffice/src/assets",
-    "last.imagePath": "C:/Users/asimon/Downloads/Isometric",
+    "last.imagePath": "C:/laragon/www/digioffice/src/assets",
     "openFiles": [
-        "map.json"
     ],
     "project": "digioffice.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "map.json",
         "src/assets/Tree.tsx",
         "src/assets/Nature3D.tsx",
         "src/assets/NatureKit3D.tsx"
     ],
+    "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Tiled Tileset Dateien (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
     "tileset.type": 0
 }
