@@ -29,6 +29,13 @@ function closePopUp(){
 }
 
 
+
+/**
+ * 
+ * Welcome Message
+ * 
+ */
+
 WA.onInit().then(() => {
     // console.log('Tags: ', WA.player);
     WA.chat.sendChatMessage(`Herzlich Willkommen ${WA.player.name}, in unserem digitalen Office!`, 'Alex');
@@ -36,3 +43,9 @@ WA.onInit().then(() => {
 
 
 
+/**
+ * 
+ * Sound distance detection
+ * 
+ */
+ WA.player.onPlayerMove(console.log);
