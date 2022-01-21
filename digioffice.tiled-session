@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -12,11 +12,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 3,
-            "selectedLayer": 8,
+            "scale": 1.5,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 218.66666666666669,
-                "y": 234.33333333333331
+                "x": 219,
+                "y": 273.3333333333333
             }
         },
         "map.json#BaseChip_pipo_rearranged": {
@@ -128,6 +128,7 @@
     "last.externalTilesetPath": "C:/laragon/www/digioffice/src/assets",
     "last.imagePath": "C:/laragon/www/digioffice/src/assets",
     "openFiles": [
+        "map.json"
     ],
     "project": "digioffice.tiled-project",
     "property.type": "string",
