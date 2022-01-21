@@ -5,6 +5,15 @@ import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure.
 bootstrapExtra().catch(e => console.error(e));
 
+
+
+
+/**
+ * 
+ * Clock Zone Action
+ * 
+ */
+
 let currentPopup: any = undefined;
 const today = new Date();
 const friday = new Date();
@@ -16,7 +25,7 @@ const time = difference_In_Days;
 
 WA.room.onEnterLayer('clockZone').subscribe(() => {
     console.log('toto')
-    currentPopup =  WA.ui.openPopup("clockPopup",`Noch ${time} ${time > 1 ? 'Tage' : 'Tag' } bis zum Wochenende 🥳`,[]);
+    currentPopup =  WA.ui.openPopup("clockPopup",`${time > 1 ? `Noch ${time} Tage bis zum` : 'MORGEN ist' } Wochenende 🥳`,[]);
 })
 
 WA.room.onLeaveLayer('clockZone').subscribe(closePopUp)
@@ -28,6 +37,20 @@ function closePopUp(){
     }
 }
 
+
+
+/**
+ * 
+ * Cake Zone Action
+ * 
+ */
+
+ WA.room.onEnterLayer('cakeZone').subscribe(() => {
+    console.log('cake')
+    currentPopup =  WA.ui.openPopup("cakePopup",`🍰Kuchenliste: Marco, Pierre, Benni`,[]);
+})
+
+WA.room.onLeaveLayer('cakeZone').subscribe(closePopUp)
 
 
 /**

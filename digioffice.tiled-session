@@ -12,12 +12,15 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1.5,
-            "selectedLayer": 15,
+            "scale": 3,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 317.99999999999994,
-                "y": 382
+                "x": 218.66666666666669,
+                "y": 234.33333333333331
             }
+        },
+        "map.json#BaseChip_pipo_rearranged": {
+            "scaleInDock": 1
         },
         "map.json#MegaPixelArt32x32pxIcons_SpriteSheet": {
             "scaleInDock": 1,
@@ -67,7 +70,40 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "map.json#cert": {
+            "scaleInDock": 1
+        },
+        "map.json#cija_32x32_screen_CC0": {
+            "scaleInDock": 1
+        },
+        "map.json#doors": {
+            "scaleInDock": 1
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "map.json#furniture": {
+            "scaleInDock": 1
+        },
+        "map.json#misc": {
+            "scaleInDock": 1
+        },
+        "map.json#misc_set": {
+            "scaleInDock": 1
+        },
         "map.json#sRandomWorldItems": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset_2_rpg_maker_xp_by_mataraelfay_d4hnexf": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn": {
+            "scaleInDock": 1
+        },
+        "map.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
         "map.json#trees": {
