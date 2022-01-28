@@ -254,6 +254,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE or touch here to view team photo"
                 }],
          "type":"tilelayer",
          "visible":true,
