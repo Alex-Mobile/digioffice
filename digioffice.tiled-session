@@ -13,10 +13,10 @@
         },
         "map.json": {
             "scale": 1,
-            "selectedLayer": 15,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 377.5,
-                "y": 363.5
+                "x": 645.5,
+                "y": 229.5
             }
         },
         "map.json#32x32_map_tile v3.1 [MARGINLESS]": {
@@ -26,7 +26,8 @@
             "scaleInDock": 1
         },
         "map.json#BaseChip_pipo_rearranged": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json#Door1_pipo": {
             "scaleInDock": 1
@@ -36,7 +37,7 @@
             "scaleInEditor": 1
         },
         "map.json#IceTileset": {
-            "scaleInDock": 1.5
+            "scaleInDock": 1
         },
         "map.json#MegaPixelArt32x32pxIcons_SpriteSheet": {
             "scaleInDock": 1,
@@ -134,6 +135,9 @@
         "map.json#cija_32x32_screen_CC0": {
             "scaleInDock": 1
         },
+        "map.json#davero": {
+            "scaleInDock": 1
+        },
         "map.json#doors": {
             "scaleInDock": 1
         },
@@ -167,6 +171,9 @@
         "map.json#sandball": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "map.json#sitting": {
+            "scaleInDock": 1
         },
         "map.json#summer floor": {
             "dynamicWrapping": false,
