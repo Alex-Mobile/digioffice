@@ -37,6 +37,7 @@
             "scaleInEditor": 1
         },
         "map.json#IceTileset": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "map.json#MegaPixelArt32x32pxIcons_SpriteSheet": {
