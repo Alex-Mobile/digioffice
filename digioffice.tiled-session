@@ -13,9 +13,9 @@
         },
         "map.json": {
             "scale": 1,
-            "selectedLayer": 11,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 645.5,
+                "x": 1024.5,
                 "y": 229.5
             }
         },

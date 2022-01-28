@@ -959,11 +959,7 @@
          "columns":16,
          "firstgid":3397,
          "image":"src\/assets\/BaseChip_pipo_rearranged.png",
-<<<<<<< HEAD
          "imageheight":2240,
-=======
-         "imageheight":2237,
->>>>>>> d21311c98a25927128fc5ea43cae1ec303e90c00
          "imagewidth":512,
          "margin":0,
          "name":"BaseChip_pipo_rearranged",
