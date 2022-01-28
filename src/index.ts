@@ -6,12 +6,7 @@ import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 bootstrapExtra().catch(e => console.error(e));
 
 
-/**
- * 
- * Clock Zone Action
- * 
- */
-
+// Clock Zone Action
 let currentPopup: any = undefined;
 const today = new Date();
 const friday = new Date();
@@ -37,13 +32,8 @@ function closePopUp(){
 
 
 
-/**
- * 
- * Cake Zone Action
- * 
- */
-
- WA.room.onEnterLayer('cakeZone').subscribe(() => {
+// Cake Zone Action
+WA.room.onEnterLayer('cakeZone').subscribe(() => {
     console.log('cake')
     currentPopup =  WA.ui.openPopup("cakePopup",`🍰 Straf-Kuchenliste: Marco, Pierre, Benni`,[]);
 })
@@ -51,21 +41,12 @@ function closePopUp(){
 WA.room.onLeaveLayer('cakeZone').subscribe(closePopUp)
 
 
-/**
- * 
- * Welcome Message
- * 
- */
-
+// Welcome Message
 WA.onInit().then(() => {
     WA.chat.sendChatMessage(`Herzlich Willkommen ${WA.player.name}, in unserem digitalen Office!`, 'James');
 })
 
 
 
-/**
- * 
- * Sound distance detection
- * 
- */
- WA.player.onPlayerMove(console.log);
+// Sound distance detection
+// WA.player.onPlayerMove(console.log)
