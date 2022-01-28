@@ -645,7 +645,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":""
         }, 
         {
          "name":"mapImage",
@@ -655,12 +655,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/alex-mobile.github.io\/digioffice\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"DigiOffice"
         }, 
         {
          "name":"script",
