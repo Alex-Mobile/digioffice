@@ -1,4 +1,4 @@
-/// <reference path="../node_modules/@workadventure/iframe-api-typings/iframe_api.d.ts" />
+// <reference path="../node_modules/@workadventure/iframe-api-typings/iframe_api.d.ts" />
 import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 
 // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure.
@@ -59,8 +59,7 @@ WA.room.onLeaveLayer('cakeZone').subscribe(closePopUp)
  */
 
 WA.onInit().then(() => {
-    // console.log('Tags: ', WA.player);
-    WA.chat.sendChatMessage(`Herzlich Willkommen ${WA.player.name}, in unserem digitalen Office!`, 'Alex');
+    WA.chat.sendChatMessage(`Herzlich Willkommen ${WA.player.name}, in unserem digitalen Office!`, 'James');
 })
 
 
