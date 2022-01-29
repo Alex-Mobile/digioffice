@@ -725,12 +725,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Credits: Alex Simon\nbased on Valdo Romaos starting map"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":""
+         "value":"The digital office of davero munich"
         }, 
         {
          "name":"mapImage",
