@@ -13,11 +13,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1,
-            "selectedLayer": 17,
+            "scale": 2,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 1024.5,
-                "y": 229.5
+                "x": 225.75,
+                "y": 264.25
             }
         },
         "map.json#32x32_map_tile v3.1 [MARGINLESS]": {
@@ -138,7 +138,7 @@
             "scaleInDock": 1
         },
         "map.json#davero": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "map.json#doors": {
@@ -166,9 +166,15 @@
             "scaleInDock": 1
         },
         "map.json#misc_set": {
+            "scaleInDock": 0.75
+        },
+        "map.json#obj_misk_atlas": {
             "scaleInDock": 1
         },
         "map.json#sRandomWorldItems": {
+            "scaleInDock": 1
+        },
+        "map.json#samplemap": {
             "scaleInDock": 1
         },
         "map.json#sandball": {
