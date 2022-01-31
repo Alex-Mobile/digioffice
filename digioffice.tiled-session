@@ -13,11 +13,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 2,
-            "selectedLayer": 33,
+            "scale": 1,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 225.75,
-                "y": 264.25
+                "x": 422.5,
+                "y": 162.5
             }
         },
         "map.json#32x32_map_tile v3.1 [MARGINLESS]": {
