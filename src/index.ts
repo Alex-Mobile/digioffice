@@ -34,7 +34,7 @@ function closePopUp(){
 // Cake Zone Action
 WA.room.onEnterLayer('cakeZone').subscribe(() => {
     console.log('cake')
-    currentPopup =  WA.ui.openPopup("cakePopup",`🍰 Straf-Kuchenliste: Marco, Pierre, Benni`,[]);
+    currentPopup =  WA.ui.openPopup("cakePopup",`🍰 Straf-Kuchenliste: Marco, Pierre, Benny`,[]);
 })
 
 WA.room.onLeaveLayer('cakeZone').subscribe(closePopUp)
