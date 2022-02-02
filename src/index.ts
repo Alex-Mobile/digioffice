@@ -17,7 +17,11 @@ const time = difference_In_Days;
 
 WA.room.onEnterLayer('clockZone').subscribe(() => {
     console.log('toto')
-    currentPopup =  WA.ui.openPopup("clockPopup",`${time > 1 ? `Noch ${time} Tage bis zum` : 'MORGEN ist' } Wochenende 🥳`,[]);
+    if(time == 0 || time >= 6) {
+        currentPopup =  WA.ui.openPopup("clockPopup",`Wochenende 🥳 Raus hier mit dir!`,[]);
+    } else {
+        currentPopup =  WA.ui.openPopup("clockPopup",`${time > 1 ? `Noch ${time} Tage bis zum` : 'MORGEN ist' } Wochenende 🥳`,[]);
+    }
 })
 
 WA.room.onLeaveLayer('clockZone').subscribe(closePopUp)
