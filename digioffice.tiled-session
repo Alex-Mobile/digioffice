@@ -13,11 +13,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1.5,
+            "scale": 4,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 909.6666666666666,
-                "y": 425.6666666666667
+                "x": 602.875,
+                "y": 875.125
             }
         },
         "map.json#32x32_map_tile v3.1 [MARGINLESS]": {
@@ -169,6 +169,9 @@
         "map.json#misc_set": {
             "scaleInDock": 0.75
         },
+        "map.json#mv_blockhouse_by_schwarzenacht_datx39f_klein": {
+            "scaleInDock": 1
+        },
         "map.json#obj_misk_atlas": {
             "scaleInDock": 1
         },
@@ -239,7 +242,7 @@
     },
     "frame.defaultDuration": 200,
     "last.externalTilesetPath": "C:/laragon/www/digioffice/src/assets/Pipoya RPG Tileset 32x32/SampleMap",
-    "last.imagePath": "C:/laragon/www/digioffice/src/assets",
+    "last.imagePath": "C:/Users/asimon/Downloads",
     "openFiles": [
         "map.json"
     ],
