@@ -13,11 +13,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 4,
-            "selectedLayer": 1,
+            "scale": 2,
+            "selectedLayer": 44,
             "viewCenter": {
-                "x": 602.875,
-                "y": 875.125
+                "x": 668.25,
+                "y": 464.75
             }
         },
         "map.json#32x32_map_tile v3.1 [MARGINLESS]": {
@@ -86,7 +86,7 @@
             "scaleInDock": 1
         },
         "map.json#WA_Room_Builder": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "map.json#WA_Seats": {
