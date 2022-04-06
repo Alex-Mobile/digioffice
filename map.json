@@ -1656,7 +1656,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"src\/pages\/straight4.html"
+                 "value":"https:\/\/play.gamepix.com\/straight-4-multiplayer\/embed"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
