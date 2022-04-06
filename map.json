@@ -1795,7 +1795,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE or touch here to play Codenames"
+                 "value":"Press SPACE or touch here to play some game during your session"
                 }],
          "type":"tilelayer",
          "visible":true,
