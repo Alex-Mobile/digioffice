@@ -1656,7 +1656,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/html5.gamedistribution.com\/rvvASMiM\/a7dab88e129548d99c01e5dec6a90bb7\/"
+                 "value":"src\/pages\/straight4.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
