@@ -13,11 +13,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1.5,
-            "selectedLayer": 27,
+            "scale": 1,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1153,
-                "y": 581
+                "x": 783.5,
+                "y": 612.5
             }
         },
         "map.json#32x32_map_tile v3.1 [MARGINLESS]": {
@@ -103,7 +103,7 @@
             "scaleInEditor": 1
         },
         "map.json#[A]Flower_pipo": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "map.json#[A]Grass2_pipo": {
@@ -140,7 +140,7 @@
             "scaleInDock": 1
         },
         "map.json#davero": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "map.json#doors": {
@@ -248,7 +248,7 @@
         "map.json"
     ],
     "project": "digioffice.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "map.json",
         "src/assets/Tree.tsx",
