@@ -14,10 +14,10 @@
         },
         "map.json": {
             "scale": 1,
-            "selectedLayer": 6,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 783.5,
-                "y": 612.5
+                "x": 799.5,
+                "y": 622.5
             }
         },
         "map.json#32x32_map_tile v3.1 [MARGINLESS]": {
