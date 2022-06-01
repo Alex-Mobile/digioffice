@@ -574,6 +574,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"daveroMeetingRoom"
@@ -939,6 +944,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ChillZoneDavero"
@@ -1014,6 +1024,11 @@
          "name":"jitsiLunchzone",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":false
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -1091,6 +1106,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Meeting1ZoneDavero"
@@ -1166,6 +1186,11 @@
          "name":"jitsiMeeting2zone",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -1243,6 +1268,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Meeting3ZoneDavero"
@@ -1318,6 +1348,11 @@
          "name":"jitsiMeetingSpace",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -5568,6 +5603,23 @@
                  "width":0,
                  "x":754,
                  "y":617
+                }, 
+                {
+                 "height":261,
+                 "id":35,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":214,
+                 "x":1217,
+                 "y":651.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6326,7 +6378,7 @@
          "y":0
         }],
  "nextlayerid":140,
- "nextobjectid":35,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
