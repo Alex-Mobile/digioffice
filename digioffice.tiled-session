@@ -14,9 +14,9 @@
         },
         "map.json": {
             "scale": 1,
-            "selectedLayer": 76,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1351.5,
+                "x": 1094.5,
                 "y": 748.5
             }
         },
@@ -248,7 +248,7 @@
         "map.json"
     ],
     "project": "digioffice.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "map.json",
         "src/assets/Tree.tsx",
