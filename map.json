@@ -5333,17 +5333,18 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"",
                  "height":61.6672851518306,
                  "id":12,
                  "name":"clockPopup",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":237.716220904799,
                  "x":825.252658731954,
                  "y":914.02691164713
                 }, 
                 {
+                 "class":"zone",
                  "height":111,
                  "id":15,
                  "name":"",
@@ -5354,24 +5355,24 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":178,
                  "x":487,
                  "y":1001
                 }, 
                 {
+                 "class":"",
                  "height":107.6673,
                  "id":20,
                  "name":"cakePopup",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":325.049333333333,
                  "x":493.142,
                  "y":1065.83301666667
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":21,
                  "name":"door",
@@ -5418,13 +5419,13 @@
                          "value":50
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1020,
                  "y":1002.66666666667
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":23,
                  "name":"meeting2door",
@@ -5456,13 +5457,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":366.666666666667,
                  "y":1046
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":26,
                  "name":"wc03door",
@@ -5494,13 +5495,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1710.91666666667,
                  "y":418.75
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":24,
                  "name":"officedoor_silent",
@@ -5537,13 +5538,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":560,
                  "y":618
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":25,
                  "name":"meeting3door",
@@ -5575,13 +5576,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":368,
                  "y":1306
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":27,
                  "name":"wc01door",
@@ -5613,13 +5614,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1581.5,
                  "y":418.25
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":28,
                  "name":"wc02door",
@@ -5651,13 +5652,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1650.5,
                  "y":419.25
                 }, 
                 {
+                 "class":"zone",
                  "height":75,
                  "id":29,
                  "name":"",
@@ -5668,13 +5669,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":68,
                  "x":1563,
                  "y":345.5
                 }, 
                 {
+                 "class":"zone",
                  "height":75,
                  "id":30,
                  "name":"",
@@ -5685,13 +5686,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":68,
                  "x":1630,
                  "y":346.5
                 }, 
                 {
+                 "class":"zone",
                  "height":75,
                  "id":31,
                  "name":"",
@@ -5702,13 +5703,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":68,
                  "x":1701,
                  "y":347.5
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":32,
                  "name":"meeting1door",
@@ -5740,13 +5741,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":384,
                  "y":753
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":33,
                  "name":"mainofficedoor",
@@ -5783,13 +5784,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":592,
                  "y":736
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":34,
                  "name":"officedoor",
@@ -5826,13 +5827,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":754,
                  "y":617
                 }, 
                 {
+                 "class":"zone",
                  "height":261,
                  "id":35,
                  "name":"",
@@ -5843,7 +5844,6 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":214,
                  "x":1217,
@@ -6650,7 +6650,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.90",
+ "tiledversion":"1.9.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -8195,6 +8195,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":55
 }

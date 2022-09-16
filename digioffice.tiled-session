@@ -244,6 +244,7 @@
     "frame.defaultDuration": 200,
     "last.externalTilesetPath": "C:/laragon/www/digioffice/src/assets/Pipoya RPG Tileset 32x32/SampleMap",
     "last.imagePath": "C:/Users/asimon/Downloads",
+    "map.lastUsedFormat": "json",
     "openFiles": [
         "map.json"
     ],
