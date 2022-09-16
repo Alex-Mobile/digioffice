@@ -2678,13 +2678,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":49,
          "id":146,
-         "name":"urlBomberman",
+         "name":"urlTetris",
          "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.retrogames.cc\/embed\/20411-bomberman-usa.html"
+                 "value":"https:\/\/www.retrogames.cc\/embed\/17612-tetris-usa.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -2694,7 +2694,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE or touch here to play Bomberman"
+                 "value":"Press SPACE or touch here to play Tetris"
                 }],
          "type":"tilelayer",
          "visible":true,
