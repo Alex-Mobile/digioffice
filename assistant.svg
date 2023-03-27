@@ -1,0 +1,654 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="121" xmlns="http://www.w3.org/2000/svg" height="111" id="screenshot-988cca4e-62f2-808e-8002-19d5550f9acf" viewBox="-8 0 121 111" style="-webkit-print-color-adjust: exact;" fill="none" version="1.1">
+  <g id="shape-988cca4e-62f2-808e-8002-19d5550f9acf" rx="0" ry="0" style="opacity: 0.8;">
+    <g id="shape-988cca4e-62f2-808e-8002-19d5550fe9f6">
+      <defs>
+        <filter id="filter_rumext-id-2" x="-0.23529411764705252" y="-0.23529411764707142" width="1.470588235294105" height="1.4705882352941428" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d5550fe9f4" />
+        </filter>
+        <filter id="filter_blur_rumext-id-2" x="-0.23529411764705252" y="-0.23529411764707142" width="1.470588235294105" height="1.4705882352941428" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d5550fe9f4" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-2_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="22" y="69" height="16.99999999999909" width="17.000000000000455" data-loading="false" id="fill-0-rumext-id-2">
+          <g>
+            <rect width="17.000000000000455" height="16.99999999999909" style="fill: url(&quot;#fill-color-gradient_rumext-id-2_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d5550fe9f6">
+        <ellipse rx="8.500000000000227" ry="8.499999999999545" cx="30.500000000000227" cy="77.49999999999955" transform="" filter="url(#filter_rumext-id-2)" fill="url(#fill-0-rumext-id-2)" style="opacity: 0.5;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d5550fe9fa">
+      <defs>
+        <filter id="filter_rumext-id-3" x="-0.7272727272727273" y="-0.7272727272727273" width="2.4545454545454546" height="2.4545454545454546" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="4" result="filter_988cca4e-62f2-808e-8002-19d5550fe9f8" />
+        </filter>
+        <filter id="filter_blur_rumext-id-3" x="-0.7272727272727273" y="-0.7272727272727273" width="2.4545454545454546" height="2.4545454545454546" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="4" result="filter_988cca4e-62f2-808e-8002-19d5550fe9f8" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-3_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="59" y="54" height="11" width="11" data-loading="false" id="fill-0-rumext-id-3">
+          <g>
+            <rect width="11" height="11" style="fill: url(&quot;#fill-color-gradient_rumext-id-3_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d5550fe9fa">
+        <ellipse rx="5.5" ry="5.5" cx="64.5" cy="59.5" transform="" filter="url(#filter_rumext-id-3)" fill="url(#fill-0-rumext-id-3)" style="opacity: 0.5;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555101d86">
+      <defs>
+        <filter id="filter_rumext-id-4" x="-0.5714285714285714" y="-0.5714285714285714" width="2.142857142857143" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555101d84" />
+        </filter>
+        <filter id="filter_blur_rumext-id-4" x="-0.5714285714285714" y="-0.5714285714285714" width="2.142857142857143" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555101d84" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-4_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="44" y="76.99999999999909" height="7" width="7" data-loading="false" id="fill-0-rumext-id-4">
+          <g>
+            <rect width="7" height="7" style="fill: url(&quot;#fill-color-gradient_rumext-id-4_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555101d86">
+        <ellipse rx="3.5" ry="3.5" cx="47.5" cy="80.49999999999909" transform="" filter="url(#filter_rumext-id-4)" fill="url(#fill-0-rumext-id-4)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555101d8a">
+      <defs>
+        <filter id="filter_rumext-id-5" x="-0.36363636363636365" y="-0.3636363636363937" width="1.7272727272727273" height="1.7272727272727875" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555101d88" />
+        </filter>
+        <filter id="filter_blur_rumext-id-5" x="-0.36363636363636365" y="-0.3636363636363937" width="1.7272727272727273" height="1.7272727272727875" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555101d88" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-5_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="49" y="72" height="10.99999999999909" width="11" data-loading="false" id="fill-0-rumext-id-5">
+          <g>
+            <rect width="11" height="10.99999999999909" style="fill: url(&quot;#fill-color-gradient_rumext-id-5_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555101d8a">
+        <ellipse rx="5.5" ry="5.499999999999545" cx="54.5" cy="77.49999999999955" transform="" filter="url(#filter_rumext-id-5)" fill="url(#fill-0-rumext-id-5)" style="opacity: 0.8;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555106b4c">
+      <defs>
+        <filter id="filter_rumext-id-6" x="-0.36363636363636365" y="-0.36363636363636365" width="1.7272727272727273" height="1.7272727272727273" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555106b4a" />
+        </filter>
+        <filter id="filter_blur_rumext-id-6" x="-0.36363636363636365" y="-0.36363636363636365" width="1.7272727272727273" height="1.7272727272727273" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555106b4a" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-6_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="50" y="52" height="11" width="11" data-loading="false" id="fill-0-rumext-id-6">
+          <g>
+            <rect width="11" height="11" style="fill: url(&quot;#fill-color-gradient_rumext-id-6_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555106b4c">
+        <ellipse rx="5.5" ry="5.5" cx="55.5" cy="57.5" transform="" filter="url(#filter_rumext-id-6)" fill="url(#fill-0-rumext-id-6)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555106b50">
+      <defs>
+        <filter id="filter_rumext-id-7" x="-0.2857142857142857" y="-0.2857142857142857" width="1.5714285714285714" height="1.5714285714285714" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555106b4e" />
+        </filter>
+        <filter id="filter_blur_rumext-id-7" x="-0.2857142857142857" y="-0.2857142857142857" width="1.5714285714285714" height="1.5714285714285714" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555106b4e" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-7_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="27" y="39.99999999999909" height="14" width="14" data-loading="false" id="fill-0-rumext-id-7">
+          <g>
+            <rect width="14" height="14" style="fill: url(&quot;#fill-color-gradient_rumext-id-7_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555106b50">
+        <ellipse rx="7" ry="7" cx="34" cy="46.99999999999909" transform="" filter="url(#filter_rumext-id-7)" fill="url(#fill-0-rumext-id-7)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55510a216">
+      <defs>
+        <filter id="filter_rumext-id-8" x="-0.36363636363636365" y="-0.36363636363633356" width="1.7272727272727273" height="1.7272727272726671" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55510a214" />
+        </filter>
+        <filter id="filter_blur_rumext-id-8" x="-0.36363636363636365" y="-0.36363636363633356" width="1.7272727272727273" height="1.7272727272726671" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55510a214" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-8_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="49" y="38.99999999999909" height="11.00000000000091" width="11" data-loading="false" id="fill-0-rumext-id-8">
+          <g>
+            <rect width="11" height="11.00000000000091" style="fill: url(&quot;#fill-color-gradient_rumext-id-8_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55510a216">
+        <ellipse rx="5.5" ry="5.500000000000455" cx="54.5" cy="44.499999999999545" transform="" filter="url(#filter_rumext-id-8)" fill="url(#fill-0-rumext-id-8)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55510a21a">
+      <defs>
+        <filter id="filter_rumext-id-9" x="-0.18181818181818182" y="-0.18181818181818182" width="1.3636363636363635" height="1.3636363636363635" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55510a218" />
+        </filter>
+        <filter id="filter_blur_rumext-id-9" x="-0.18181818181818182" y="-0.18181818181818182" width="1.3636363636363635" height="1.3636363636363635" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55510a218" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-9_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="52" y="52" height="11" width="11" data-loading="false" id="fill-0-rumext-id-9">
+          <g>
+            <rect width="11" height="11" style="fill: url(&quot;#fill-color-gradient_rumext-id-9_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55510a21a">
+        <ellipse rx="5.5" ry="5.5" cx="57.5" cy="57.5" transform="" filter="url(#filter_rumext-id-9)" fill="url(#fill-0-rumext-id-9)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55510c3b0">
+      <defs>
+        <filter id="filter_rumext-id-10" x="-0.36363636363636365" y="-0.36363636363633356" width="1.7272727272727273" height="1.7272727272726671" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55510c3ae" />
+        </filter>
+        <filter id="filter_blur_rumext-id-10" x="-0.36363636363636365" y="-0.36363636363633356" width="1.7272727272727273" height="1.7272727272726671" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55510c3ae" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-10_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="92" y="25.99999999999909" height="11.00000000000091" width="11" data-loading="false" id="fill-0-rumext-id-10">
+          <g>
+            <rect width="11" height="11.00000000000091" style="fill: url(&quot;#fill-color-gradient_rumext-id-10_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55510c3b0">
+        <ellipse rx="5.5" ry="5.500000000000455" cx="97.5" cy="31.499999999999545" transform="" filter="url(#filter_rumext-id-10)" fill="url(#fill-0-rumext-id-10)" style="opacity: 0.8;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55510c3b4">
+      <defs>
+        <filter id="filter_rumext-id-11" x="-0.7272727272727273" y="-0.7272727272727273" width="2.4545454545454546" height="2.4545454545454546" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="4" result="filter_988cca4e-62f2-808e-8002-19d55510c3b2" />
+        </filter>
+        <filter id="filter_blur_rumext-id-11" x="-0.7272727272727273" y="-0.7272727272727273" width="2.4545454545454546" height="2.4545454545454546" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="4" result="filter_988cca4e-62f2-808e-8002-19d55510c3b2" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-11_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="77" y="18.99999999999909" height="11" width="11" data-loading="false" id="fill-0-rumext-id-11">
+          <g>
+            <rect width="11" height="11" style="fill: url(&quot;#fill-color-gradient_rumext-id-11_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55510c3b4">
+        <ellipse rx="5.5" ry="5.5" cx="82.5" cy="24.49999999999909" transform="" filter="url(#filter_rumext-id-11)" fill="url(#fill-0-rumext-id-11)" style="opacity: 0.5;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555110049">
+      <defs>
+        <filter id="filter_rumext-id-12" x="-0.18181818181818182" y="-0.18181818181819684" width="1.3636363636363635" height="1.3636363636363937" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d555110047" />
+        </filter>
+        <filter id="filter_blur_rumext-id-12" x="-0.18181818181818182" y="-0.18181818181819684" width="1.3636363636363635" height="1.3636363636363937" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d555110047" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-12_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="76" y="40.99999999999909" height="10.99999999999909" width="11" data-loading="false" id="fill-0-rumext-id-12">
+          <g>
+            <rect width="11" height="10.99999999999909" style="fill: url(&quot;#fill-color-gradient_rumext-id-12_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555110049">
+        <ellipse rx="5.5" ry="5.499999999999545" cx="81.5" cy="46.499999999998636" transform="" filter="url(#filter_rumext-id-12)" fill="url(#fill-0-rumext-id-12)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55511004d">
+      <defs>
+        <filter id="filter_rumext-id-13" x="-0.5714285714286086" y="-0.5714285714285714" width="2.142857142857217" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511004b" />
+        </filter>
+        <filter id="filter_blur_rumext-id-13" x="-0.5714285714286086" y="-0.5714285714285714" width="2.142857142857217" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511004b" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-13_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="89" y="33.99999999999909" height="7" width="6.999999999999545" data-loading="false" id="fill-0-rumext-id-13">
+          <g>
+            <rect width="6.999999999999545" height="7" style="fill: url(&quot;#fill-color-gradient_rumext-id-13_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55511004d">
+        <ellipse rx="3.4999999999997726" ry="3.5" cx="92.49999999999977" cy="37.49999999999909" transform="" filter="url(#filter_rumext-id-13)" fill="url(#fill-0-rumext-id-13)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555116a17">
+      <defs>
+        <filter id="filter_rumext-id-14" x="-0.5714285714285714" y="-0.5714285714285714" width="2.142857142857143" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511004f" />
+        </filter>
+        <filter id="filter_blur_rumext-id-14" x="-0.5714285714285714" y="-0.5714285714285714" width="2.142857142857143" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511004f" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-14_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="66" y="30.99999999999909" height="7" width="7" data-loading="false" id="fill-0-rumext-id-14">
+          <g>
+            <rect width="7" height="7" style="fill: url(&quot;#fill-color-gradient_rumext-id-14_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555116a17">
+        <ellipse rx="3.5" ry="3.5" cx="69.5" cy="34.49999999999909" transform="" filter="url(#filter_rumext-id-14)" fill="url(#fill-0-rumext-id-14)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555116a1b">
+      <defs>
+        <filter id="filter_rumext-id-15" x="-0.5714285714285714" y="-0.5714285714285714" width="2.142857142857143" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555116a19" />
+        </filter>
+        <filter id="filter_blur_rumext-id-15" x="-0.5714285714285714" y="-0.5714285714285714" width="2.142857142857143" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555116a19" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-15_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="44" y="75.99999999999909" height="7" width="7" data-loading="false" id="fill-0-rumext-id-15">
+          <g>
+            <rect width="7" height="7" style="fill: url(&quot;#fill-color-gradient_rumext-id-15_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555116a1b">
+        <ellipse rx="3.5" ry="3.5" cx="47.5" cy="79.49999999999909" transform="" filter="url(#filter_rumext-id-15)" fill="url(#fill-0-rumext-id-15)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555116a1f">
+      <defs>
+        <filter id="filter_rumext-id-16" x="-0.23529411764705882" y="-0.23529411764707142" width="1.4705882352941178" height="1.4705882352941428" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555116a1d" />
+        </filter>
+        <filter id="filter_blur_rumext-id-16" x="-0.23529411764705882" y="-0.23529411764707142" width="1.4705882352941178" height="1.4705882352941428" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d555116a1d" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-16_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="63" y="86" height="16.99999999999909" width="17" data-loading="false" id="fill-0-rumext-id-16">
+          <g>
+            <rect width="17" height="16.99999999999909" style="fill: url(&quot;#fill-color-gradient_rumext-id-16_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555116a1f">
+        <ellipse rx="8.5" ry="8.499999999999545" cx="71.5" cy="94.49999999999955" transform="" filter="url(#filter_rumext-id-16)" fill="url(#fill-0-rumext-id-16)" style="opacity: 0.5;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55511acf8">
+      <defs>
+        <filter id="filter_rumext-id-17" x="-0.2857142857143043" y="-0.2857142857142486" width="1.5714285714286085" height="1.5714285714284972" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55511acf6" />
+        </filter>
+        <filter id="filter_blur_rumext-id-17" x="-0.2857142857143043" y="-0.2857142857142486" width="1.5714285714286085" height="1.5714285714284972" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55511acf6" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-17_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="86" y="53.99999999999909" height="7.0000000000009095" width="6.999999999999545" data-loading="false" id="fill-0-rumext-id-17">
+          <g>
+            <rect width="6.999999999999545" height="7.0000000000009095" style="fill: url(&quot;#fill-color-gradient_rumext-id-17_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55511acf8">
+        <ellipse rx="3.4999999999997726" ry="3.5000000000004547" cx="89.49999999999977" cy="57.499999999999545" transform="" filter="url(#filter_rumext-id-17)" fill="url(#fill-0-rumext-id-17)" style="opacity: 0.8;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55511acfc">
+      <defs>
+        <filter id="filter_rumext-id-18" x="-0.5714285714286086" y="-0.5714285714285714" width="2.142857142857217" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511acfa" />
+        </filter>
+        <filter id="filter_blur_rumext-id-18" x="-0.5714285714286086" y="-0.5714285714285714" width="2.142857142857217" height="2.142857142857143" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511acfa" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-18_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="70" y="38.99999999999909" height="7" width="6.999999999999545" data-loading="false" id="fill-0-rumext-id-18">
+          <g>
+            <rect width="6.999999999999545" height="7" style="fill: url(&quot;#fill-color-gradient_rumext-id-18_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55511acfc">
+        <ellipse rx="3.4999999999997726" ry="3.5" cx="73.49999999999977" cy="42.49999999999909" transform="" filter="url(#filter_rumext-id-18)" fill="url(#fill-0-rumext-id-18)" style="opacity: 0.6;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55511ea57">
+      <defs>
+        <filter id="filter_rumext-id-19" x="-0.2000000000000091" y="-0.2" width="1.4000000000000181" height="1.4" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55511ea55" />
+        </filter>
+        <filter id="filter_blur_rumext-id-19" x="-0.2000000000000091" y="-0.2" width="1.4000000000000181" height="1.4" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55511ea55" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-19_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="99" y="62.99999999999909" height="10" width="9.999999999999545" data-loading="false" id="fill-0-rumext-id-19">
+          <g>
+            <rect width="9.999999999999545" height="10" style="fill: url(&quot;#fill-color-gradient_rumext-id-19_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55511ea57">
+        <ellipse rx="4.999999999999773" ry="5" cx="103.99999999999977" cy="67.99999999999909" transform="" filter="url(#filter_rumext-id-19)" fill="url(#fill-0-rumext-id-19)" style="opacity: 0.8;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555120e1b">
+      <defs>
+        <filter id="filter_rumext-id-20" x="-0.23529411764705252" y="-0.23529411764707142" width="1.470588235294105" height="1.4705882352941428" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511ea59" />
+        </filter>
+        <filter id="filter_blur_rumext-id-20" x="-0.23529411764705252" y="-0.23529411764707142" width="1.470588235294105" height="1.4705882352941428" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55511ea59" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-20_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="24" y="56" height="16.99999999999909" width="17.000000000000455" data-loading="false" id="fill-0-rumext-id-20">
+          <g>
+            <rect width="17.000000000000455" height="16.99999999999909" style="fill: url(&quot;#fill-color-gradient_rumext-id-20_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555120e1b">
+        <ellipse rx="8.500000000000227" ry="8.499999999999545" cx="32.50000000000023" cy="64.49999999999955" transform="" filter="url(#filter_rumext-id-20)" fill="url(#fill-0-rumext-id-20)" style="opacity: 0.8;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55512777d">
+      <defs>
+        <filter id="filter_rumext-id-21" x="-0.47058823529410504" y="-0.4705882352940925" width="1.9411764705882102" height="1.9411764705881849" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="4" result="filter_988cca4e-62f2-808e-8002-19d55512777b" />
+        </filter>
+        <filter id="filter_blur_rumext-id-21" x="-0.47058823529410504" y="-0.4705882352940925" width="1.9411764705882102" height="1.9411764705881849" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="4" result="filter_988cca4e-62f2-808e-8002-19d55512777b" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-21_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="39" y="12.99999999999909" height="17.00000000000091" width="17.000000000000455" data-loading="false" id="fill-0-rumext-id-21">
+          <g>
+            <rect width="17.000000000000455" height="17.00000000000091" style="fill: url(&quot;#fill-color-gradient_rumext-id-21_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55512777d">
+        <ellipse rx="8.500000000000227" ry="8.500000000000455" cx="47.50000000000023" cy="21.499999999999545" transform="" filter="url(#filter_rumext-id-21)" fill="url(#fill-0-rumext-id-21)" style="opacity: 0.5;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d555127781">
+      <defs>
+        <filter id="filter_rumext-id-22" x="-0.08695652173913215" y="-0.08695652173913387" width="1.1739130434782643" height="1.1739130434782676" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55512777f" />
+        </filter>
+        <filter id="filter_blur_rumext-id-22" x="-0.08695652173913215" y="-0.08695652173913387" width="1.1739130434782643" height="1.1739130434782676" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55512777f" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-22_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="42" y="0" height="22.99999999999909" width="22.999999999999545" data-loading="false" id="fill-0-rumext-id-22">
+          <g>
+            <rect width="22.999999999999545" height="22.99999999999909" style="fill: url(&quot;#fill-color-gradient_rumext-id-22_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d555127781">
+        <ellipse rx="11.499999999999773" ry="11.499999999999545" cx="53.49999999999977" cy="11.499999999999545" transform="" filter="url(#filter_rumext-id-22)" fill="url(#fill-0-rumext-id-22)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55512b18e">
+      <defs>
+        <filter id="filter_rumext-id-23" x="-0.23529411764705882" y="-0.23529411764705882" width="1.4705882352941178" height="1.4705882352941178" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55512b18c" />
+        </filter>
+        <filter id="filter_blur_rumext-id-23" x="-0.23529411764705882" y="-0.23529411764705882" width="1.4705882352941178" height="1.4705882352941178" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55512b18c" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-23_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="14" y="26" height="17" width="17" data-loading="false" id="fill-0-rumext-id-23">
+          <g>
+            <rect width="17" height="17" style="fill: url(&quot;#fill-color-gradient_rumext-id-23_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55512b18e">
+        <ellipse rx="8.5" ry="8.5" cx="22.5" cy="34.5" transform="" filter="url(#filter_rumext-id-23)" fill="url(#fill-0-rumext-id-23)" style="opacity: 0.6;" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55512b192">
+      <defs>
+        <filter id="filter_rumext-id-24" x="-0.06060606060606061" y="-0.060606060606058935" width="1.121212121212121" height="1.1212121212121178" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55512b190" />
+        </filter>
+        <filter id="filter_blur_rumext-id-24" x="-0.06060606060606061" y="-0.060606060606058935" width="1.121212121212121" height="1.1212121212121178" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55512b190" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-24_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="0" y="50" height="33.00000000000091" width="33" data-loading="false" id="fill-0-rumext-id-24">
+          <g>
+            <rect width="33" height="33.00000000000091" style="fill: url(&quot;#fill-color-gradient_rumext-id-24_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55512b192">
+        <ellipse rx="16.5" ry="16.500000000000455" cx="16.5" cy="66.50000000000045" transform="" filter="url(#filter_rumext-id-24)" fill="url(#fill-0-rumext-id-24)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55512c11e">
+      <defs>
+        <filter id="filter_rumext-id-25" x="-0.11764705882352941" y="-0.11764705882353571" width="1.2352941176470589" height="1.2352941176470713" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55512c11c" />
+        </filter>
+        <filter id="filter_blur_rumext-id-25" x="-0.11764705882352941" y="-0.11764705882353571" width="1.2352941176470589" height="1.2352941176470713" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="1" result="filter_988cca4e-62f2-808e-8002-19d55512c11c" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-25_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="73" y="74" height="16.99999999999909" width="17" data-loading="false" id="fill-0-rumext-id-25">
+          <g>
+            <rect width="17" height="16.99999999999909" style="fill: url(&quot;#fill-color-gradient_rumext-id-25_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55512c11e">
+        <ellipse rx="8.5" ry="8.499999999999545" cx="81.5" cy="82.49999999999955" transform="" filter="url(#filter_rumext-id-25)" fill="url(#fill-0-rumext-id-25)" />
+      </g>
+    </g>
+    <g id="shape-988cca4e-62f2-808e-8002-19d55512c122">
+      <defs>
+        <filter id="filter_rumext-id-26" x="-0.2857142857142857" y="-0.2857142857142857" width="1.5714285714285714" height="1.5714285714285714" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55512c120" />
+        </filter>
+        <filter id="filter_blur_rumext-id-26" x="-0.2857142857142857" y="-0.2857142857142857" width="1.5714285714285714" height="1.5714285714285714" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+          <feGaussianBlur stdDeviation="2" result="filter_988cca4e-62f2-808e-8002-19d55512c120" />
+        </filter>
+        <radialGradient id="fill-color-gradient_rumext-id-26_0" cx="0.4391975768054563" cy="0.5332787853113523" r="0.4706650899597028" gradientTransform="matrix(-1.726219, 0.224884, -0.129184, -0.991621, 1.266240, 0.963320)">
+          <stop offset="0" stop-color="#fee7c9" stop-opacity="1" />
+          <stop offset="1" stop-color="#fffff4" stop-opacity="1" />
+        </radialGradient>
+        <pattern patternUnits="userSpaceOnUse" x="33" y="36" height="14" width="14" data-loading="false" id="fill-0-rumext-id-26">
+          <g>
+            <rect width="14" height="14" style="fill: url(&quot;#fill-color-gradient_rumext-id-26_0&quot;);" />
+          </g>
+        </pattern>
+      </defs>
+      <g class="fills" id="fills-988cca4e-62f2-808e-8002-19d55512c122">
+        <ellipse rx="7" ry="7" cx="40" cy="43" transform="" filter="url(#filter_rumext-id-26)" fill="url(#fill-0-rumext-id-26)" style="opacity: 0.8;" />
+      </g>
+    </g>
+  </g>
+</svg>
